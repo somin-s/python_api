@@ -1,11 +1,11 @@
 flask
 flask_cors
 pandas
-joblib 
+#joblib 
 numpy
-scikit-learn==1.2.2
-altair
-statsmodels
+#scikit-learn==1.2.2
+#altair
+#statsmodels
 gunicorn
 #math
 #tensorflow
