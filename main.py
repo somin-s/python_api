@@ -12,7 +12,7 @@ import numpy as np
 app = Flask(__name__)
 CORS(app)
 
-model_1 = joblib.load(open("model1_final.joblib","rb"))
+model_1 = joblib.load('model1_final.joblib')
 model_2 = joblib.load('model2_final.joblib')
 model_3 = joblib.load('model3_final.joblib')
 model_4 = joblib.load('model4_final.joblib')
