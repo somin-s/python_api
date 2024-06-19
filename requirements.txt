@@ -3,7 +3,7 @@ flask_cors
 pandas
 joblib==1.4.0
 numpy
-scikit-learn==0.22.2
+scikit-learn
 altair
 statsmodels
 gunicorn
