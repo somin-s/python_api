@@ -3,7 +3,8 @@ flask_cors
 pandas
 joblib 
 numpy
-scikit-learn
+scikit-learn==1.2.2
+altair
 statsmodels
 #math
 #tensorflow
