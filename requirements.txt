@@ -6,5 +6,6 @@ numpy
 scikit-learn==1.1.3
 altair
 statsmodels
+gunicorn
 #math
 #tensorflow
