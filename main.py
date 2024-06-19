@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-
+import sklearn
 import pandas as pd 
-import joblib
+from . import joblib
 import numpy as np
 # import altair as alt
 # import matplotlib.pyplot as plt

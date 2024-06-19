@@ -2,7 +2,7 @@ flask
 flask_cors
 pandas
 joblib 
-numpy
+numpy>=1.17.3
 scikit-learn==1.2.2
 altair
 statsmodels
