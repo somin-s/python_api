@@ -1,6 +1,5 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import sklearn
 import pandas as pd 
 import joblib
 import numpy as np
